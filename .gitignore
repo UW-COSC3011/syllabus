@@ -1,0 +1,3 @@
+# Files to ignore. Hopefully the .gitignore is one of those. 
+*.class
+# Well it really is not but thats okay, make sense anyway.
