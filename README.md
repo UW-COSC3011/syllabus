@@ -8,15 +8,15 @@
 # SYLLABUS #
 
 <table borders="1">
-<tr><td>**Semester**</td><td>Spring 2018 </td></tr>
-<tr><td>* Meeting * </td><td>
+<tr><td><b>Semester</b></td><td>Spring 2018 </td></tr>
+<tr><td><b>Meeting</b> </td><td>
 <ul>
 <li> M-W-F 10:00 - 10:50 AM
 <li> Place:  EN 1045
 </ul></td></tr>
-<tr><td>* Instructor * </td><td> Dr. Kim Buckner</td></tr>
-<tr><td>*Office* </td><td> EN 4089</td></tr>
-<tr><td>*Office Hours* </td><td>
+<tr><td><b> Instructor </b> </td><td> Dr. Kim Buckner</td></tr>
+<tr><td><b>Office</b> </td><td> EN 4089</td></tr>
+<tr><td><b>Office Hours</b> </td><td>
 <ul>
 <li> Monday, Wednesday, 1:00-2:00
 <li> Tuesday, Thursday, 9:00-10:00
@@ -24,7 +24,7 @@
 <li> Other times are available by appointment
 </ul></td></tr>
 
-<tr><td>*Contact* </td><td>
+<tr><td><b>Contact</b> </td><td>
 <ul>
 <li> Email: kbuckner@uwyo.edu
 <li> Office Phone: 307-766-5182
