@@ -7,7 +7,7 @@
  * Probably need to fix a bunch of stuff, but this compiles and runs.
  *
  */
-package game;
+//package game;
 import javax.swing.*;
 import java.awt.*;
 
