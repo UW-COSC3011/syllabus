@@ -15,7 +15,11 @@
  * package. However all other added elements can certainly be sub-packages, and
  * probably should be. 
  */
+<<<<<<< HEAD
 
+=======
+//package game;
+>>>>>>> 51b99b0aae4bbc003211f0524846eccdb3ce45ad
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

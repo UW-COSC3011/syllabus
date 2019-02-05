@@ -13,7 +13,11 @@
  * Main should NEVER do much more than this in any program that is
  * user-interface intensive, such as this one. 
  */
+<<<<<<< HEAD
 
+=======
+//package game;
+>>>>>>> 51b99b0aae4bbc003211f0524846eccdb3ce45ad
 import javax.swing.*;
 import java.awt.*;
 
