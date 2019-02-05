@@ -6,8 +6,14 @@
  * A starting point for the COSC 3011 programming assignment
  * Probably need to fix a bunch of stuff, but this compiles and runs.
  *
+ * This COULD be part of a package but I choose to make the starting point NOT a
+ * package. However all other added elements can certainly be sub-packages, and
+ * probably should be. 
+ *
+ * Main should NEVER do much more than this in any program that is
+ * user-interface intensive, such as this one. 
  */
-package game;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -21,6 +27,7 @@ public class Main
   public static void main(String[] args)
   {
     // This is the play area
+    // HEY FIX THE NAME, WHAT IS ****YOUR**** GROUP
     GameWindow game = new GameWindow("Group X aMaze");
     
     // have to override the default layout to reposition things!!!!!!!
@@ -39,6 +46,9 @@ public class Main
     // May or may not need this
     
     game.setVisible(true);
+
+    // You will HAVE to read some documentation and catch exceptions so get used
+    // to it. 
 
     try {
       // The 4 that are installed on Linux here

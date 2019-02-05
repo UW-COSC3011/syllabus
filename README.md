@@ -8,7 +8,7 @@
 # SYLLABUS #
 
 <table borders="1">
-<tr><td><b>Semester</b></td><td>Spring 2018 </td></tr>
+<tr><td><b>Semester</b></td><td>Spring 2019 </td></tr>
 <tr><td><b>Meeting</b> </td><td>
 <ul>
 <li> M-W-F 10:00 - 10:50 AM
@@ -80,6 +80,16 @@ document from each group member on that member`s performance as well as the
 performance of the other group members.
 
 
+__**This is not a game.**__ Working alone is not an option.
+Consider the group assignments as part of a job.  Failure to actively HELP your
+group will result in a failing grade in this course. That means communicate with
+group members, attend planned meetings, complete tasks on time, seek help from
+group members when needed. The fact that you may or may not like other group
+members is irrelevant. You simply have to get along and get it done
+**without** drama. 
+
+
+
 #### Homework/programming assignments: #### 
 
 Homework and programming assignments will be posted and managed through
@@ -117,7 +127,7 @@ regular lectures. Each presentation will be accompanied by a separate
 bibliography that will be submitted to the instructor. Each presentation will be
 worth 40 points.
 
-* Every student will be expected to attend every group presentation.
+* __Every__ student will be expected to attend __every__ group presentation.
 Attendance will be taken by completion of a feedback form on the presentation.
 Attendance will be worth 5 points per presentation.
 
@@ -126,10 +136,10 @@ Attendance will be worth 5 points per presentation.
 #### Academic Honesty: ####
 
 Assignments are intended to be completed independently unless otherwise
-specified by the instructor. UW Regulation 6-802 defines academic dishonesty and
+specified by the instructor. UW Regulation 2-114 defines academic dishonesty and
 specifies the penalties <a target="_blank"
 href="http://www.uwyo.edu/generalcounsel">Office of the General Counsel's</a>
-webpage and select *Current Regulations and Presidential Directives* for the
+webpage and select **Current Regulations and Presidential Directives** for the
 content of all the University regulations)
 
 Collaboration and discussion are acceptable, but you MUST do your own work. The
@@ -139,8 +149,33 @@ Anything else is unfair to you and to your fellow students.
 #### Attendance: ####
 
 Attendance at the lecture is highly recommended as not all material will come
-from the texts (see further UW Regulation 6-713). Attendance of all members of
+from the texts (see further UW Regulation 2-108). Attendance of all members of
 each group is required for the presentations.
+
+
+#### Classroom Behavior ####
+
+At all times, treat your presence in the classroom and your enrollment in this
+course as you would a job.  Act professionally, arrive on time, pay attention,
+complete your work in a timely and professional manner, and treat all deadlines
+seriously.  You will be respectful towards your classmates and instructor.
+Spirited debate and disagreement are to be expected in any classroom and all
+views will be heard fully, but at all times we will behave civilly and with
+respect towards one another. Personal attacks, offensive language, name-calling,
+and dismissive gestures are not warranted in a learning atmosphere.  As the
+instructor, I have the right to dismiss you from the classroom, study sessions,
+electronic forums, and other areas where disruptive behavior occurs.
+
+#### Diversity #### 
+
+The University of Wyoming values an educational environment that is diverse,
+equitable, and inclusive. The diversity that students and faculty bring to
+class, including age, country of origin, culture, disability, economic class,
+ethnicity, gender identity, immigration status, linguistic, political
+affiliation, race, religion, sexual orientation, veteran status, worldview, and
+other social and cultural diversity is valued, respected, and considered a
+resource for learning.
+
 
 #### Students with disabilities: ####
 
@@ -179,12 +214,12 @@ The academic calendar that can be accessed from WyoWeb, shows 'important' dates.
 The ones that most concern us are:
 
 
-* January 22, First classe
-* March 21, Midterm Grades due
-* March 12-16, Spring Break
-* May 4, Last day of classes
-* May 09, Final Exam, 08:00 AM -- 10:00 AM
-* May 12, Commencement
+* January 28, First classe
+* March 18-22, Spring Break
+* March 27, Midterm Grades due
+* May 10, Last day of classes
+* May 13, Final Exam, 10:00 AM -- 12:15 PM
+* May 18, Commencement
 
 
 
@@ -227,5 +262,5 @@ assignments already given at the time of the change. No changes in assignment
 due dates will affect current assignments if such change causes the assignment
 to be due earlier than originally indicated.
 
-*Last Update:* 1/12/2018
+*Last Update:* 2/04/2019
 
