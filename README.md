@@ -8,11 +8,11 @@
 # SYLLABUS #
 
 <table borders="1">
-<tr><td><b>Semester</b></td><td>Spring 2019 </td></tr>
+<tr><td><b>Semester</b></td><td>Spring 2020 </td></tr>
 <tr><td><b>Meeting</b> </td><td>
 <ul>
 <li> M-W-F 10:00 - 10:50 AM
-<li> Place:  EN 1045
+<li> Place:  BC 138 (Berry Center)
 </ul></td></tr>
 <tr><td><b> Instructor </b> </td><td> Dr. Kim Buckner</td></tr>
 <tr><td><b>Office</b> </td><td> EN 4089</td></tr>
@@ -32,15 +32,15 @@
 </table>
 
 
-#### Course Description: #### 
+### Course Description: 
 Introduces the principles and practice of software
 design, including UML and design patterns. Uses case studies to illustrate
 design in action.
 
-##### Prerequisites: ##### 
+### Prerequisites: 
 COSC 2030
 
-#### Objectives: ####
+### Objectives: 
 Students who complete this course should be able to:
 
 
@@ -52,11 +52,11 @@ Students who complete this course should be able to:
   system development
 
 
-#### Required Text: #### 
-_Object-Oriented Design Using JAVA_, Dale Skrien,
+### Required Text: 
+*Object-Oriented Design Using JAVA*, Dale Skrien,
 2009, McGraw-Hill Higher Education. ISBN 978-0-07-2975416-4
 
-#### Course Policies: ####
+### Course Policies: 
 * Grading:
   * A 90\% - 100\%
   * B 80\% - 89\%
@@ -64,33 +64,33 @@ _Object-Oriented Design Using JAVA_, Dale Skrien,
   * D 60\% - 69\%
   * F Below 60\%
 * Percent of Grade:
-  * Homework: 20\%
-  * Programming Assignments: 50\%
+  * Homework: 25\%
+  * Programming Assignments: 55\%
   * Midterm Exam: 10\%
-  * Presetation: 10\%
   * Final Exam: 10\%
 
-#### Groups: #### 
-The class will be divided into groups. The instructor will
-determine group membership. Students will **not** be allowed to change
-groups once assigned. All students must participate in the group work.  Besides
-the programming assignments, each group will be required to give a presentation
-on a topic assigned by the instructor.  All group work will require a feedback
-document from each group member on that member`s performance as well as the
-performance of the other group members.
+### Groups: 
+The class will be divided into groups. The instructor will determine group
+membership. Students will **not** be allowed to change groups once assigned. All
+students must participate in the group work.  All group work will require a
+feedback document from each group member on that member`s performance as well as
+the performance of the other group members.
 
-
-__**This is not a game.**__ Working alone is not an option.
-Consider the group assignments as part of a job.  Failure to actively HELP your
-group will result in a failing grade in this course. That means communicate with
-group members, attend planned meetings, complete tasks on time, seek help from
-group members when needed. The fact that you may or may not like other group
-members is irrelevant. You simply have to get along and get it done
-**without** drama. 
+<!--Besides the programming assignments, each group will be required to give a
+presentation on a topic assigned by the instructor.  -->
 
 
 
-#### Homework/programming assignments: #### 
+***This is not a game.*** Working alone is not an option.  Consider the group
+assignments as part of a job.  Failure to actively HELP your group will result
+in a failing grade in this course. That means communicate with group members,
+attend planned meetings, complete tasks on time, seek help from group members
+when needed. The fact that you may or may not like other group members is
+irrelevant. You simply have to get along and get it done **without** drama. 
+
+
+
+### Homework/programming assignments: 
 
 Homework and programming assignments will be posted and managed through
 WyoCourses.  Homework will be submitted as typed electronic documents (no
@@ -102,8 +102,10 @@ submission specified in the assignment.  Failure to comply with the assigned
 specifications will result in a 0 (zero) grade for the assignment.  
 
 Each homework or programming assignment will have a due date and time assigned.
-Any late submission will be assessed a 10% (ten percent) late penalty. It can be
-at most 24 hours late. WyoCourses will not accept any submission after that time.
+Any late programmin submission will be assessed a 10% (ten percent) late
+penalty. Programming assignmedts can be at most 24 hours late. Homework
+assignments will **NOT** be accepted if late. WyoCourses will not accept any
+submission after that time.
 
 Homework must be done individually. You must NOT copy anyone else's work, that
 includes anything you find online. Retyping what you have found and changing a
@@ -111,12 +113,11 @@ couple of words is still plagiarism. The use of quotes and citations is not
 allowed. Anyone suspected of copying/using someone else's work will be subject
 to the University's policies on academic dishonesty, see below.
 
-Programming assignments will be done as group projects. There will be
-<u>one</u> copy of the assignment materials submitted for each group.
-Scoring rubrics for each programming assignment will be part of the
-documentation provided to you.
+Programming assignments will be done as group projects. There will be <u>one</u>
+copy of the assignment materials submitted for each group.  Scoring rubrics for
+each programming assignment will be part of the documentation provided to you.
 
-
+<!--
 #### Presentations: #### 
 
 Each group will give a presentation to the class.
@@ -129,66 +130,31 @@ worth 40 points.
 
 * __Every__ student will be expected to attend __every__ group presentation.
 Attendance will be taken by completion of a feedback form on the presentation.
-Attendance will be worth 5 points per presentation.
+Attendance will be worth 5 points per presentation.-->
 
 
 
-#### Academic Honesty: ####
+### Academic Honesty:
+See ``Classroom Climate \& Conduct'' link on course site pages.
 
-Assignments are intended to be completed independently unless otherwise
-specified by the instructor. UW Regulation 2-114 defines academic dishonesty and
-specifies the penalties <a target="_blank"
-href="http://www.uwyo.edu/generalcounsel">Office of the General Counsel's</a>
-webpage and select **Current Regulations and Presidential Directives** for the
-content of all the University regulations)
+
 
 Collaboration and discussion are acceptable, but you MUST do your own work. The
 grade you receive must represent your effort and achievement not that of others.
 Anything else is unfair to you and to your fellow students.
 
-#### Attendance: ####
+### Attendance: 
 
 Attendance at the lecture is highly recommended as not all material will come
-from the texts (see further UW Regulation 2-108). Attendance of all members of
-each group is required for the presentations.
+from the texts (see further UW Regulation 2-108). 
+<!--Attendance of all members of each group is required for the presentations.
+-->
+
+### Students with disabilities: 
+See ``Learning Tools'' link on course site pages. 
 
 
-#### Classroom Behavior ####
-
-At all times, treat your presence in the classroom and your enrollment in this
-course as you would a job.  Act professionally, arrive on time, pay attention,
-complete your work in a timely and professional manner, and treat all deadlines
-seriously.  You will be respectful towards your classmates and instructor.
-Spirited debate and disagreement are to be expected in any classroom and all
-views will be heard fully, but at all times we will behave civilly and with
-respect towards one another. Personal attacks, offensive language, name-calling,
-and dismissive gestures are not warranted in a learning atmosphere.  As the
-instructor, I have the right to dismiss you from the classroom, study sessions,
-electronic forums, and other areas where disruptive behavior occurs.
-
-#### Diversity #### 
-
-The University of Wyoming values an educational environment that is diverse,
-equitable, and inclusive. The diversity that students and faculty bring to
-class, including age, country of origin, culture, disability, economic class,
-ethnicity, gender identity, immigration status, linguistic, political
-affiliation, race, religion, sexual orientation, veteran status, worldview, and
-other social and cultural diversity is valued, respected, and considered a
-resource for learning.
-
-
-#### Students with disabilities: ####
-
-If you have a physical, sensory, or psychological disability and require
-accommodations, please let me know as soon as possible. You will need to
-register with, and possibly provide documentation of your disability to,
-Disability Support Services (DSS), room 109 Knight Hall.  You may also contact
-DSS at (307) 766-3073 or <a target="_blank"
-href="mailto:udss@uwyo.edu">udss@uwyo.edu</a>. Visit their website for more
-informaion: <a target="_blank" href="http://www.uwyo.edu/udss">
-www.uwyo.edu/udss</a>.
-
-#### Other Information: ####
+### Other Information: 
 
 The use of cell phones, pagers, and other devices that beep, ring, etc. is
 prohibited in class. They must be turned off or set to "silent". Text messaging
@@ -208,22 +174,22 @@ on them for your course grade. I keep the official course grades offline. If you
 want to talk about your current standing, see me during office hours.
 
 
-#### Basic Course Schedule: #### 
+### Basic Course Schedule: 
 
 The academic calendar that can be accessed from WyoWeb, shows 'important' dates.
 The ones that most concern us are:
 
 
-* January 28, First classe
-* March 18-22, Spring Break
-* March 27, Midterm Grades due
-* May 10, Last day of classes
+* January 27, First classe
+* March 16-20, Spring Break
+* March 19, Midterm Grades due
+* May 08, Last day of classes
 * May 13, Final Exam, 10:00 AM -- 12:15 PM
-* May 18, Commencement
+* May 16, Commencement
 
 
 
-#### Notes: ####
+### Notes:
 
 
 * The exams for this course will be "comprehensive" in that you will be
@@ -232,9 +198,10 @@ any way from the first day of the course up until the start of the exam.  Any
 change in the schedule for an exam will be announced at least two (2) class
 periods in advance.
 
-* Exam questions will normally be of the short answer or essay type. If you
-have any question about what that means in terms how you should answer, please
-ask me.  
+* Exam questions will normally be of the short answer, multiple choice,
+true/false, fill-in, or essay type. If you have any question about what that
+means in terms how you should answer, please ask me.  
+
 
 * Office hours are kept for the benefit of the students. They are intended
 to be set times when the instructor is known to be available in his office to
@@ -254,7 +221,7 @@ even remember what time it is let alone when the last time I checked my email
 was.  
 
 
-#### This Syllabus: ####
+### This Syllabus: 
 
 This document is subject to change. Any changes will be communicated to the
 students in a timely manner. No changes involving grading will affect
@@ -262,5 +229,5 @@ assignments already given at the time of the change. No changes in assignment
 due dates will affect current assignments if such change causes the assignment
 to be due earlier than originally indicated.
 
-*Last Update:* 2/04/2019
+*Last Update:* 1/14/2020
 
