@@ -64,9 +64,9 @@ Students who complete this course should be able to:
   * D 60\% - 69\%
   * F Below 60\%
 * Percent of Grade:
-  * Homework: 25\%
+  * Homework: 20\%
   * Programming Assignments: 55\%
-  * Midterm Exam: 10\%
+  * Exams: 15\%
   * Final Exam: 10\%
 
 ### Groups: 
