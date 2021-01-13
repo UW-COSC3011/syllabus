@@ -8,23 +8,23 @@
 # SYLLABUS #
 
 <table borders="1">
-<tr><td><b>Semester</b></td><td>Spring 2020 </td></tr>
-<tr><td><b>Meeting</b> </td><td>
+<tr><td>**Semester**</td><td>Spring 2021 </td></tr>
+<tr><td> * Meeting * </td><td>
 <ul>
-<li> M-W-F 10:00 - 10:50 AM
-<li> Place:  BC 138 (Berry Center)
+<li> M-W-F 09:50 - 10:40 AM
+<li> Place:  EERB 225 
 </ul></td></tr>
-<tr><td><b> Instructor </b> </td><td> Dr. Kim Buckner</td></tr>
-<tr><td><b>Office</b> </td><td> EN 4089</td></tr>
-<tr><td><b>Office Hours</b> </td><td>
+<tr><td> * Instructor * </td><td> Dr. Kim Buckner</td></tr>
+<tr><td> *Office* </td><td> EN 4089</td></tr>
+<tr><td> *Office Hours* </td><td>
 <ul>
-<li> Monday, Wednesday, 1:00-2:00
-<li> Tuesday, Thursday, 9:00-10:00
-<li> Tuesday, Thursday, 1:00--2:00
+<li> Monday, Wednesday, 1100&mdash;1200
+<li> Monday, Wednesday, 1300&mdash;1400
+<li> Thursday, 1300&mdash;1400
 <li> Other times are available by appointment
 </ul></td></tr>
 
-<tr><td><b>Contact</b> </td><td>
+<tr><td>*Contact* </td><td>
 <ul>
 <li> Email: kbuckner@uwyo.edu
 <li> Office Phone: 307-766-5182
@@ -32,15 +32,15 @@
 </table>
 
 
-### Course Description: 
+#### Course Description: ####
 Introduces the principles and practice of software
 design, including UML and design patterns. Uses case studies to illustrate
 design in action.
 
-### Prerequisites: 
+##### Prerequisites: #####
 COSC 2030
 
-### Objectives: 
+#### Objectives: ####
 Students who complete this course should be able to:
 
 
@@ -52,45 +52,41 @@ Students who complete this course should be able to:
   system development
 
 
-### Required Text: 
-*Object-Oriented Design Using JAVA*, Dale Skrien,
+#### Tests Used: ####
+_Object-Oriented Design Using JAVA_, Dale Skrien,
 2009, McGraw-Hill Higher Education. ISBN 978-0-07-2975416-4
 
-### Course Policies: 
+_Oject-Oriented Analysis, Design and Implementation: An Integrated
+Approach_ 2<sup>nd</sup> ed., Brahma Dathan and Sarnath Ramnath, 2015. Springer, 
+
+_Java Design Patterns_, Vaskaran Sarcar, 2016, Apress
+
+\end{itemize}
+
+#### Course Policies: ####
 * Grading:
-  * A 90\% - 100\%
-  * B 80\% - 89\%
-  * C 70\% - 79\%
-  * D 60\% - 69\%
-  * F Below 60\%
+  * A 90% - 100%
+  * B 80% - 89%
+  * C 70% - 79%
+  * D 60% - 69%
+  * F Below 60%
 * Percent of Grade:
-  * Homework: 20\%
-  * Programming Assignments: 55\%
-  * Exams: 15\%
-  * Final Exam: 10\%
+  * Homework: 20%
+  * Programming Assignments: 55%
+  * Exams: 15%
+  * Final Exam: 10%
 
-### Groups: 
-The class will be divided into groups. The instructor will determine group
-membership. Students will **not** be allowed to change groups once assigned. All
-students must participate in the group work.  All group work will require a
-feedback document from each group member on that member`s performance as well as
-the performance of the other group members.
-
-<!--Besides the programming assignments, each group will be required to give a
-presentation on a topic assigned by the instructor.  -->
-
+#### Groups: ####
+The class will be divided into groups. The instructor will
+determine group membership. Students will **not** be allowed to change
+groups once assigned. All students must participate in the group work.  Besides
+the programming assignments, each group will be required to give a presentation
+on a topic assigned by the instructor.  All group work will require a feedback
+document from each group member on that member's performance as well as the
+performance of the other group members.
 
 
-***This is not a game.*** Working alone is not an option.  Consider the group
-assignments as part of a job.  Failure to actively HELP your group will result
-in a failing grade in this course. That means communicate with group members,
-attend planned meetings, complete tasks on time, seek help from group members
-when needed. The fact that you may or may not like other group members is
-irrelevant. You simply have to get along and get it done **without** drama. 
-
-
-
-### Homework/programming assignments: 
+#### Homework/programming assignments: ####
 
 Homework and programming assignments will be posted and managed through
 WyoCourses.  Homework will be submitted as typed electronic documents (no
@@ -102,10 +98,8 @@ submission specified in the assignment.  Failure to comply with the assigned
 specifications will result in a 0 (zero) grade for the assignment.  
 
 Each homework or programming assignment will have a due date and time assigned.
-Any late programmin submission will be assessed a 10% (ten percent) late
-penalty. Programming assignmedts can be at most 24 hours late. Homework
-assignments will **NOT** be accepted if late. WyoCourses will not accept any
-submission after that time.
+Any late submission will be assessed a 10% (ten percent) late penalty. It can be
+at most 24 hours late. WyoCourses will not accept any submission after that time.
 
 Homework must be done individually. You must NOT copy anyone else's work, that
 includes anything you find online. Retyping what you have found and changing a
@@ -113,51 +107,40 @@ couple of words is still plagiarism. The use of quotes and citations is not
 allowed. Anyone suspected of copying/using someone else's work will be subject
 to the University's policies on academic dishonesty, see below.
 
-Programming assignments will be done as group projects. There will be <u>one</u>
-copy of the assignment materials submitted for each group.  Scoring rubrics for
-each programming assignment will be part of the documentation provided to you.
-
-<!--
-#### Presentations: #### 
-
-Each group will give a presentation to the class.
+Programming assignments will be done as group projects. There will be
+<u>one</u> copy of the assignment materials submitted for each group.
+Scoring rubrics for each programming assignment will be part of the
+documentation provided to you.
 
 
-* A presentation by each group, during class, will count as one of the
-regular lectures. Each presentation will be accompanied by a separate
-bibliography that will be submitted to the instructor. Each presentation will be
-worth 40 points.
-
-* __Every__ student will be expected to attend __every__ group presentation.
-Attendance will be taken by completion of a feedback form on the presentation.
-Attendance will be worth 5 points per presentation.-->
-
-
-
-### Academic Honesty:
-See ``Classroom Climate \& Conduct'' link on course site pages.
-
-
+#### Academic Honesty: ####   
+See "**Classroom Climate & Conduct**" link on course pages.
 
 Collaboration and discussion are acceptable, but you MUST do your own work. The
 grade you receive must represent your effort and achievement not that of others.
-Anything else is unfair to you and to your fellow students.
-
-### Attendance: 
-
-Attendance at the lecture is highly recommended as not all material will come
-from the texts (see further UW Regulation 2-108). 
-<!--Attendance of all members of each group is required for the presentations.
--->
-
-### Students with disabilities: 
-See ``Learning Tools'' link on course site pages. 
+Anything else is unfair to you and to your fellow students. And that especially
+means that looking up the answers online and copying something is NOT
+acceptable. 
 
 
-### Other Information: 
+
+#### Attendance: ####
+
+Attendance will not be required during this COVID19 period.
+I MOST STRONGLY recommend that you at least read all the lecture slides that
+will be posted and watch the videos. Not all material will come from the texts
+(see further UW Regulation 2-108). 
+
+
+#### Students with disabilities: ####
+
+See "**Learning Tools**" link on course pages.
+
+
+#### Other Information: ####
 
 The use of cell phones, pagers, and other devices that beep, ring, etc. is
-prohibited in class. They must be turned off or set to "silent". Text messaging
+prohibited in class. They must be turned off or set to _silent_. Text messaging
 is extremely distracting to the instructor so please wait until after class to
 reply to or check your messages.
 
@@ -174,34 +157,33 @@ on them for your course grade. I keep the official course grades offline. If you
 want to talk about your current standing, see me during office hours.
 
 
-### Basic Course Schedule: 
+#### Basic Course Schedule: ####
 
-The academic calendar that can be accessed from WyoWeb, shows 'important' dates.
-The ones that most concern us are:
-
-
-* January 27, First classe
-* March 16-20, Spring Break
-* March 19, Midterm Grades due
-* May 08, Last day of classes
-* May 13, Final Exam, 10:00 AM -- 12:15 PM
-* May 16, Commencement
+The academic calendar that can be accessed from WyoWeb, shows *important*
+dates.  The ones that most concern us are:
 
 
+* January 22, First class
+* March 25, Midterm Grades due
+* March 31-April 4, Spring Break
+* May 6, Last day of classes
+* May 14, Final Exam, 10:15 AM -- 12:15 PM
+* May 15, Commencement
 
-### Notes:
 
 
-* The exams for this course will be "comprehensive" in that you will be
+#### Notes: ####
+
+
+* The exams for this course will be **comprehensive** in that you will be
 responsible for all of the course material assigned, discussed, or covered in
 any way from the first day of the course up until the start of the exam.  Any
 change in the schedule for an exam will be announced at least two (2) class
 periods in advance.
 
-* Exam questions will normally be of the short answer, multiple choice,
-true/false, fill-in, or essay type. If you have any question about what that
-means in terms how you should answer, please ask me.  
-
+* Exam questions will normally be of the short answer or essay type. If you
+have any question about what that means in terms how you should answer, please
+ask me.  
 
 * Office hours are kept for the benefit of the students. They are intended
 to be set times when the instructor is known to be available in his office to
@@ -221,7 +203,7 @@ even remember what time it is let alone when the last time I checked my email
 was.  
 
 
-### This Syllabus: 
+#### This Syllabus: ####
 
 This document is subject to change. Any changes will be communicated to the
 students in a timely manner. No changes involving grading will affect
@@ -229,5 +211,4 @@ assignments already given at the time of the change. No changes in assignment
 due dates will affect current assignments if such change causes the assignment
 to be due earlier than originally indicated.
 
-*Last Update:* 1/14/2020
-
+*Last Update:* 1/13/2021
