@@ -7,21 +7,13 @@
 
 # SYLLABUS #
 
-**Semester** | Spring 2021  
--------------|--------------------
-**Meeting** | 
-* M-W-F 09:50 - 10:40 AM 
-* Place:  EERB 225    
-**Instructor** | Dr. Kim Buckner  
-**Office** | EN 4089  
-**Office Hours** | 
-* Monday, Wednesday, 1100--1200 
-* Monday, Wednesday, 1300--1400 
-* Thursday, 1300--1400 
-* Other times are available by appointment  
-**Contact** | 
-* Email: kbuckner@uwyo.edu 
-* Office Phone: 307-766-5182   
+| **Semester** | Spring 2021  |
+| -------------|-------------------- |
+| **Meeting** | <ul><li> M-W-F 09:50 - 10:40 AM <li> Place:  EERB 225 </ul>  |
+| **Instructor** | Dr. Kim Buckner  |
+| **Office** | EN 4089  |
+| **Office Hours** | <ul><li> Monday, Wednesday, 1100--1200 <li> Monday, Wednesday, 1300--1400 <li> Thursday, 1300--1400 <li>  Other times are available by appointment  </ul> | 
+| **Contact** | <ul><li> Email: kbuckner@uwyo.edu <li> Office Phone: 307-766-5182 </ul>  |
 
 
 #### Course Description: ####
