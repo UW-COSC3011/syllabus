@@ -8,7 +8,7 @@
 # SYLLABUS #
 
 **Semester** | Spring 2021  
----------------------------------
+-------------|--------------------
 **Meeting** | * M-W-F 09:50 - 10:40 AM * Place:  EERB 225    
 **Instructor** | Dr. Kim Buckner  
 **Office** | EN 4089  
