@@ -9,11 +9,19 @@
 
 **Semester** | Spring 2021  
 -------------|--------------------
-**Meeting** | * M-W-F 09:50 - 10:40 AM * Place:  EERB 225    
+**Meeting** | 
+* M-W-F 09:50 - 10:40 AM 
+* Place:  EERB 225    
 **Instructor** | Dr. Kim Buckner  
 **Office** | EN 4089  
-**Office Hours** | * Monday, Wednesday, 1100--1200 * Monday, Wednesday, 1300--1400 * Thursday, 1300--1400 * Other times are available by appointment  
-**Contact** | * Email: kbuckner@uwyo.edu * Office Phone: 307-766-5182   
+**Office Hours** | 
+* Monday, Wednesday, 1100--1200 
+* Monday, Wednesday, 1300--1400 
+* Thursday, 1300--1400 
+* Other times are available by appointment  
+**Contact** | 
+* Email: kbuckner@uwyo.edu 
+* Office Phone: 307-766-5182   
 
 
 #### Course Description: ####
