@@ -9,14 +9,14 @@
 
 <table borders="1">
 <tr><td>**Semester**</td><td>Spring 2021 </td></tr>
-<tr><td> * Meeting * </td><td>
+<tr><td>**Meeting** </td><td>
 <ul>
 <li> M-W-F 09:50 - 10:40 AM
 <li> Place:  EERB 225 
 </ul></td></tr>
-<tr><td> * Instructor * </td><td> Dr. Kim Buckner</td></tr>
-<tr><td> *Office* </td><td> EN 4089</td></tr>
-<tr><td> *Office Hours* </td><td>
+<tr><td> **Instructor** </td><td> Dr. Kim Buckner</td></tr>
+<tr><td> **Office** </td><td> EN 4089</td></tr>
+<tr><td> **Office Hours** </td><td>
 <ul>
 <li> Monday, Wednesday, 1100&mdash;1200
 <li> Monday, Wednesday, 1300&mdash;1400
@@ -24,7 +24,7 @@
 <li> Other times are available by appointment
 </ul></td></tr>
 
-<tr><td>*Contact* </td><td>
+<tr><td>**Contact** </td><td>
 <ul>
 <li> Email: kbuckner@uwyo.edu
 <li> Office Phone: 307-766-5182
